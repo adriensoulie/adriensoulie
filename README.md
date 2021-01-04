@@ -1,11 +1,14 @@
 ### Hi there I'm Adrien 👋
 ![adrien soulie](https://i.imgur.com/2UQtasv.png)
 
+
+- 🤍 Like Remote working 
 - 🔭 I was recently working on Cisco Immersive Lab, migrating the existing UI to a React UI
 - 💬 Ask me about JavaScript, TypeScript, React, Design, UI/UX and videogames 😄
 - 🌱 I’m currently learning more serverless technologies and AI / ML
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adriensouli%C3%A9) or email me @ soulieadrien1@gmail.com
 - ⚡ Fun fact: Did competitions in English Boxing and E-sport - Overwatch - Teamfortress 2
+
 
 <!--
 **adriensoulie/adriensoulie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
