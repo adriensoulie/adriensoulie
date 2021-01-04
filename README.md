@@ -1,5 +1,5 @@
 ### Hi there I'm Adrien 👋
-[Linkedin](https://www.linkedin.com/in/adriensouli%C3%A9) [Email](soulieadrien1@gmail.com)
+[Linkedin](https://www.linkedin.com/in/adriensouli%C3%A9)
 ![adrien soulie](https://i.imgur.com/2UQtasv.png)
 
 
