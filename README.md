@@ -1,6 +1,6 @@
 ### Hi there I'm Adrien 👋
 [Linkedin](https://www.linkedin.com/in/adriensouli%C3%A9)
-![adrien soulie](https://i.imgur.com/2UQtasv.png)
+![adriensoulie](https://i.imgur.com/eX5DobA.png)
 
 
 - 🤍 Like Remote working 
