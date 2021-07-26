@@ -4,9 +4,11 @@
 
 
 - 🤍 Like Remote working 
-- 🔭 I was recently working on Cisco Immersive Lab, migrating the existing UI to a React UI
+- 🔭 I was recently working for PayFit a top French HR startup as a Growth Engineer
+- 🪐 I also worked for Cisco at the Paris Innovation and Research Lab on an exciting project called Immersive Lab
 - 💬 Ask me about JavaScript, TypeScript, React, Design, UI/UX and videogames 😄
-- 🌱 I’m currently learning more serverless technologies and AI / ML
+- 🌱 I’m currently learning more serverless technologies, and De-Fi
+- - 📫 Reach me by email at soulieadrien1 AT gmail.com
 - ⚡ Fun fact: Did competitions in English Boxing and E-sport - Overwatch - Teamfortress 2
 
 
