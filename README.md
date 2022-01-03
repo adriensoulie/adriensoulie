@@ -4,12 +4,14 @@
 
 
 - 🤍 Like Remote working 
-- 🔭 I was recently working for PayFit a top French HR startup as a Growth Engineer
-- 🪐 I also worked for Cisco at the Paris Innovation and Research Lab on an exciting project called Immersive Lab
+- 🎞️ Currently improving Editor's life at Jellysmack as a Software Engineer
+- 🔭 Recently working for PayFit a top French HR startup as a Growth Engineer
+- 🪐 Also worked for Cisco at the Paris Innovation and Research Lab on an exciting project called Immersive Lab
 - 💬 Ask me about JavaScript, TypeScript, React, Design, UI/UX and videogames 😄
-- 🌱 I’m currently learning more serverless technologies, and De-Fi
+- 🌱 I’m currently learning more serverless technologies, De-Fi, Blockchain and NFT's
 - 📫 Reach me by email at soulieadrien1 AT gmail.com
 - ⚡ Fun fact: Did competitions in English Boxing and E-sport - Overwatch - Teamfortress 2
+
 
 
 <!--
