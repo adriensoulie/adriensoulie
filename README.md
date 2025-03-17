@@ -10,7 +10,7 @@ Full-stack dev, CTO, indie hacker, and tech mercenary. I craft SaaS, automate ch
 - 🚀 **Previously:** Built tools for Jellysmack, PayFit, and Cisco.  
 - ⚡ **Stack:** TypeScript, React, Next.js, Node.js, Supabase, Playwright, and anything that gets the job done.  
 - 🎯 **Entrepreneurial mindset:** Always looking for the next big opportunity.  
-- 💡 **Interests:**AI, DeFi, Web scraping, startups, finance and software that disrupts.  
+- 💡 **Interests:** AI, DeFi, Web scraping, startups, finance and software that disrupts.  
 - 🥊 **Fun fact:** I’ve fought in Muay Thai and wrecked noobs in Overwatch & TF2.  
 
 #### ⚡ Let’s connect if you’re:  
