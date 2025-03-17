@@ -4,14 +4,14 @@
 [📫 Email me](mailto:soulieadrien1@gmail.com)  
 
 #### 🏆 Building, breaking, and scaling things.  
-Full-stack dev, CTO, indie hacker, and tech mercenary. I craft SaaS, automate chaos, and help startups move fast.  
+I craft SaaS, automate chaos, and help startups move fast.  
 
 - 🏗 **Currently:** Freelancing as a senior full-stack engineer and CTO, tackling web crawling, SaaS, and backend automation.  
 - 🚀 **Previously:** Built tools for Jellysmack, PayFit, and Cisco.  
-- ⚡ **Stack:** TypeScript, React, Next.js, Node.js, Supabase, Playwright, and anything that gets the job done.  
+- ⚡ **Stack:** TypeScript, React, Next.js, Node.js, and anything that gets the job done.  
 - 🎯 **Entrepreneurial mindset:** Always looking for the next big opportunity.  
 - 💡 **Interests:** AI, DeFi, Web scraping, startups, finance and software that disrupts.  
-- 🥊 **Fun fact:** I’ve fought in Muay Thai and wrecked noobs in Overwatch & TF2.  
+- 🥊 **Fun fact:** I’ve fought in Muay Thai and top scored in Overwatch, dota 2, cs and tf2.  
 
 #### ⚡ Let’s connect if you’re:  
 ✅ Scaling a startup and need an engineer who thinks like a founder.  
