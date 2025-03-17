@@ -3,8 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrien%20Soulié-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/adriensouli%C3%A9)  
 [📫 Email me](mailto:soulieadrien1@gmail.com)  
 
-![adriensoulie](https://i.imgur.com/eX5DobA.png)  
-
 #### 🏆 Building, breaking, and scaling things.  
 Full-stack dev, CTO, indie hacker, and tech mercenary. I craft SaaS, automate chaos, and help startups move fast.  
 
